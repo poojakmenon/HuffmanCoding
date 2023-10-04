@@ -14,7 +14,7 @@ Java porgram that implements the Huffman Coding Algorithm using various helper f
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
