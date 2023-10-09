@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Java porgram that implements the Huffman Coding Algorithm using various helper files and data structures such as queues, circular linked lists, and Node classes and algorithms such as enqueue, dequeue, and peek.
+Java porgram that implements the Huffman Coding Algorithm using various helper files and data structures such as queues, circular linked lists, and Node classes and algorithms such as enqueue, dequeue, and peek. This program compresses data to a minimum size without losing any information by giving more frequently used characters a shorter corresponding code of bits. 
 <br />
 
 
@@ -19,32 +19,31 @@ Java porgram that implements the Huffman Coding Algorithm using various helper f
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+Input file of data to be encoded/decoded: 
+<br/>
+<img src="https://github.com/poojakmenon/HuffmanCoding/assets/145529639/3ed5ca09-e365-4040-8567-c7530f642629" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Creates sorted list of characters in input file and their frequencies: 
+<br/>
+<img src="https://github.com/poojakmenon/HuffmanCoding/assets/145529639/3ed5ca09-e365-4040-8567-c7530f642629" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creates tree structure out of the frequencies:  <br/>
+<img src="https://github.com/poojakmenon/HuffmanCoding/assets/145529639/79dbf6ee-3469-424b-a7e0-e148d519ab3f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Produces corresponding bit encodings for each character: <br/>
+<img src="https://github.com/poojakmenon/HuffmanCoding/assets/145529639/8f3393c7-726c-4429-a1d1-88f3ff96e8f0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Encodes data from input file into new file:  <br/>
+<img src="https://github.com/poojakmenon/HuffmanCoding/assets/145529639/69b9d598-e7e6-4c8e-bccd-099fa964b6bb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Decode function is used to decode the encodings back to the original data:  <br/>
+<img src="https://github.com/poojakmenon/HuffmanCoding/assets/145529639/2d7dc396-8395-445c-8bd4-51f4e17989ea" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
