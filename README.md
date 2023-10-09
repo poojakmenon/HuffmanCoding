@@ -19,10 +19,9 @@ Java porgram that implements the Huffman Coding Algorithm using various helper f
 <h2>Program walk-through:</h2>
 
 <p align="center">
- 
 Input file of data to be encoded/decoded: 
 <br/>
-<img src="https://github.com/poojakmenon/HuffmanCoding/assets/145529639/3ed5ca09-e365-4040-8567-c7530f642629" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/poojakmenon/HuffmanCoding/assets/145529639/b5f30f3d-5ca5-4e86-a7a1-d45d6f2b0957" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Creates sorted list of characters in input file and their frequencies: 
 <br/>
