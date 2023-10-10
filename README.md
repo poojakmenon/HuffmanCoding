@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Java porgram that implements the Huffman Coding Algorithm using various helper files and data structures such as queues, circular linked lists, and Node classes and algorithms such as enqueue, dequeue, and peek. This program compresses data to a minimum size without losing any information by giving more frequently used characters a shorter corresponding code of bits. 
+Java program that implements the Huffman Coding Algorithm using various helper files and data structures such as queues, circular linked lists, and Node classes and algorithms such as enqueue, dequeue, and peek. This program compresses data to a minimum size without losing any information by giving more frequently used characters a shorter corresponding code of bits. 
 <br />
 
 
